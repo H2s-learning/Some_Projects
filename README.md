@@ -1,2 +1,2 @@
 # Some_Projects
-Some projects
+We include here some notebooks which contains some start to end projects
